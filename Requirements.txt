@@ -1,0 +1,10 @@
+keras
+skimage
+numpy 
+os
+random
+tensorflow
+matplotlib
+seaborn 
+cv2
+PIL
